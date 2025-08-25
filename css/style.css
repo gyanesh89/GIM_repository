@@ -1,0 +1,15 @@
+:root {
+  --brand: #005596;
+  --bg: #f5f7fa;
+  --text: #222;
+}
+body { margin: 0; font-family: system-ui, sans-serif; background: var(--bg); color: var(--text); }
+header { background: var(--brand); color: #fff; padding: 1rem 2rem; display: flex; align-items: center; gap: 1rem; }
+#nav { display: flex; gap: .5rem; padding: .5rem 2rem; background: #e7eef5; }
+button { border: none; padding: .5rem 1rem; cursor: pointer; background: #dce5ef; border-radius: 4px; }
+button.active { background: var(--brand); color: #fff; }
+section { padding: 1rem 2rem; }
+table { border-collapse: collapse; width: 100%; margin-top: .5rem; }
+th, td { border: 1px solid #ccc; padding: .4rem; text-align: right; }
+th { background: #f0f3f7; }
+canvas { max-width: 700px; margin: 1rem 0; }
