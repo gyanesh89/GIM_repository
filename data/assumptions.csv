@@ -1,0 +1,6 @@
+Item,Value,Unit
+TaxRate,25,%
+WACC,10,%
+Depreciation,2000000,EUR p.a. straight-line
+TerminalGrowth,0,% (conservative)
+WorkingCapitalDays,30,DSO+DIO-DPO
