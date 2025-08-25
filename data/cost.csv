@@ -1,0 +1,6 @@
+Parameter,Value,Unit,Note
+FixedManufacturing,6000000,EUR p.a.,dedicated plant
+VariableManufacturing,0.80,EUR/kg,ex-works
+Logistics,0.12,EUR/kg,road+tank
+SalesTechService,0.18,EUR/kg,customer trials
+PlantCapacity,30000,t p.a.,max output
