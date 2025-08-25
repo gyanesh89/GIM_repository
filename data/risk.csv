@@ -1,0 +1,6 @@
+RiskFactor,Probability,PctImpactOnCost,PctImpactOnVol,Notes
+EnergyPrice+30pct,0.25,30,0,variable cost shock
+CBAM_ImportTariff,0.50,8,0,adds to competitor cost
+REACH_Tightening,0.30,5,-5,stricter residue limits
+SubstituteEntry_Yr3,0.25,0,-10,new alternative oxidant
+FX_SEK_EUR_8pct,0.40,0,0,revenue translation risk
